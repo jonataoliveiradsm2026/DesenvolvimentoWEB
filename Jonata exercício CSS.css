@@ -1,0 +1,50 @@
+.!DOCTYPE html>
+<html>
+<head>
+<style>
+.caixa-principal {
+    	border: solid lpx;
+        padding: 2px;
+	}
+	.caixa-azul {
+     	background-color: "blue";
+        height: 100px; /* altura */
+        width: 100px; /* largura */
+	}
+	.caixa-verde {
+     	background-color: "green";
+        height: 100px; /* altura */
+        width: 100px; /* largura */
+	}
+	.caixa-lilas {
+     	background-color: "blueviolet";
+        height: 100px; /* altura */
+        width: 100px; /* largura */
+	}
+	.caixa-amarela {
+     	background-color: "yellow";
+        height: 100px; /* altura */
+        width: 100px; /* largura */
+	}
+
+</style>
+
+</head>
+<body>
+	<div class="caixa-principal">
+    </div>
+    	<div class="caixa-azul">
+        </div>
+        <div class="caixa-verde">
+        </div>
+        <div class="caixa-lilas">
+        </div>
+        <div class="caixa-amarela">
+        </div>
+</div>
+</body>
+</html>
+
+
+
+
